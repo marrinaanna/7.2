@@ -1,7 +1,6 @@
 {
   "name": "7.2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +8,14 @@
     "prettier": "prettier"
   },
   "devDependencies": {
-    "eslint": "8.26.0",
-    "eslint-config-prettier": "^8.5.0"
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "2.8.3"
   },
   "author": "",
   "license": "ISC",
@@ -18,7 +23,10 @@
     "type": "git",
     "url": "git+https://github.com/marrinaanna/7.2.git"
   },
-  "dependencies": {
-    "prettier": "^2.7.1"
-  }
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/marrinaanna/7.2/issues"
+  },
+  "homepage": "https://github.com/marrinaanna/7.2#readme",
+  "description": ""
 }
